@@ -1,4 +1,4 @@
-package com.yph.iterator;
+package com.yph.design.iterator;
 
 import java.util.ArrayList;
 import java.util.List;

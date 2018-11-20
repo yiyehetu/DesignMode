@@ -1,4 +1,4 @@
-package com.yph.iterator;
+package com.yph.design.iterator;
 
 /**
  * 遍历对象{@link BookShelf}的实现可以是数组、也可以是集合
